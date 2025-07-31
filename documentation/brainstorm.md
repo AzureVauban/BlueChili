@@ -26,6 +26,9 @@ BlueChili – Pantry inventory manager that helps reduce food waste and suggests
 
 StudySpark – Simple study session timer with streak tracking, break reminders, and productivity stats.
 
-# Final App decision
+## Final App decision
 
 BlueChili – Pantry inventory manager that helps reduce food waste and suggests recipes.
+
+# Mock-Up
+![alt text](image.png)
